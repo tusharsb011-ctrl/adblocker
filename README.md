@@ -9,7 +9,7 @@ A full-stack DNS filtering system built with **MongoDB**, **Java (JSP, Servlets,
 │                     DNS Filter System                        │
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
-│  ┌──────────────────┐    ┌──────────────────┐               │
+│  ┌──────────────────┐    ┌──────────────────┐              │
 │  │   Node.js API    │    │   Java Servlets  │               │
 │  │   (Express.js)   │    │   (Tomcat/Jetty) │               │
 │  │   Port: 8000     │    │   Port: 8080     │               │
